@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rusicsemenov/rusicsemenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [Expoplatform](https://expoplatform.com/)
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Vialan](https://vialan.com.ua/contacts)
 - 😄 Pronouns: ... It ))
 - ⚡ Fun fact: ... Read Pronouns again )))
--->
+
