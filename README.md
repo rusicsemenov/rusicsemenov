@@ -23,6 +23,6 @@ Plus tRPC · GLSL · Playwright · Vitest
 - **[CarCRM](https://carcrm.app)**: Multi-tenant SaaS with an isolated PostgreSQL database per dealer. Next.js 16, tRPC, Prisma, Auth.js. Built in 4 weeks.
 - **[Shader playground](https://shader.vialan.com.ua)**: WebGL / GLSL experiments ([source](https://github.com/rusicsemenov/shaders))
 
-[![Shader playground](assets/shader.gif)](https://shader.vialan.com.ua)
+<a href="https://shader.vialan.com.ua"><img src="assets/shader.gif" width="400" alt="Shader playground"></a>
 
 📄 Full resume → [vialan.com.ua/resume](https://vialan.com.ua/resume)
